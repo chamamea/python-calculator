@@ -1,13 +1,16 @@
 # Installation 
-## Window
-### Mac -05
-
+  ## Window
+  
+  ## Mac -05
+  
+  
 # Pre-requisites
-# Tech-stack
+  ## Tech-stack
+
 
 # About the author
-## Picture
-## link to soc-med https://www.facebook.com/chamamea.vicente
+  ## Picture
+  ## link to soc-med https://www.facebook.com/chamamea.vicente
 
 # Disclaimer
 **CHAMAMEA VICENTE**
