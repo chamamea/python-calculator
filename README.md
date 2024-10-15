@@ -1,7 +1,8 @@
 # Installation 
   ## Window
   
-  ## Mac -05
+  ## Mac -0S
+  ## 
   
   
 # Pre-requisites
