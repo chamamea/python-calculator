@@ -10,7 +10,7 @@
 
 
 # About the author
-  ## Picture
+  ## Picture https://pin.it/2wZfHztQP
   ## link to soc-med https://www.facebook.com/chamamea.vicente
 
 # Disclaimer
