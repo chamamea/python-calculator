@@ -45,7 +45,7 @@ Brief description of what your program does.
   - [Any other libraries]
 
 ## About the author
-
+'Chamamea Vicente'
 
 ## Disclaimer
 
