@@ -11,7 +11,7 @@
 
 # About the author
   ## Picture
-  ## link to soc-med 
+  ## link to soc-med  https://www.facebook.com/chamamea.vicente
 
 # Disclaimer
 *CHAMAMEA VICENTE* 
