@@ -1,4 +1,4 @@
-# Your Python Program Name
+# python-calculator
 
 Brief description of what your program does.
 
@@ -43,6 +43,9 @@ Brief description of what your program does.
   - Pandas
   - Matplotlib
   - [Any other libraries]
+
+## About the author
+
 
 ## Disclaimer
 
