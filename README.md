@@ -49,9 +49,6 @@
    -[link to soc-med](https://www.facebook.com/chamamea.vicente?mibextid=ZbWKwL)
 
 ## Disclaimer
-
-[Include any necessary disclaimers about the use of your program. For example:]
-
 This program is provided "as is" without warranty of any kind, either expressed or implied. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction.
 
 This program is not intended for use in mission critical, life saving, or high risk environments. The authors are not responsible for any direct or indirect damages or losses caused by the use of this program.
