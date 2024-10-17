@@ -42,7 +42,7 @@
   - Matplotlib
   - [Any other libraries]
 
-## About the author ![]()
+## About the author ![](https://pin.it/6ofRMGrUb)
    # CHAMAMEA L. VICENTE 
    ## SEPTEMBER 18 2007
    ## 17 YEARS OLD
