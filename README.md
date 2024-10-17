@@ -42,8 +42,8 @@
   - Matplotlib
   - [Any other libraries]
 
-## About the author ![](https://www.facebook.com/messenger_media/?attachment_id=874461834861344&message_id=mid.%24cAABbADDkqyWYyZMMHWSmE2tkT7gq&thread_id=100056378420005)
-   # CHAMAMEA L. VICENTE
+## About the author !
+   # CHAMAMEA L. VICENTE ![](https://www.facebook.com/messenger_media/?attachment_id=874461834861344&message_id=mid.%24cAABbADDkqyWYyZMMHWSmE2tkT7gq&thread_id=100056378420005](https://scontent.fdvo5-1.fna.fbcdn.net/v/t39.30808-1/451122805_1612847192593464_1891787802226967198_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeEayrtelAZsi66fcd8dBuQOg2Dx3NQPVheDYPHc1A9WF1OGTpFrR7IJ4az1mB6lveEFTdco2ZIQdv10BUaFb0PS&_nc_ohc=5f4mLzsfc8cQ7kNvgFZJmul&_nc_ht=scontent.fdvo5-1.fna&_nc_gid=AR5j8tvxdR4hMbKcUndwF5u&oh=00_AYCTqDxfb4GzHynYHCD76Njty-oHbQA-F19To4BE-5dPIA&oe=67164CAE)
    ## SEPTEMBER 18 2007
    ## 17 YEARS OLD
    -[link to soc-med](https://www.facebook.com/chamamea.vicente?mibextid=ZbWKwL)
