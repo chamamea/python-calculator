@@ -43,9 +43,8 @@
   - [Any other libraries]
 
 ## About the author
-   **CHAMAMEA L. VICENTE*
-
-     
+   # *CHAMAMEA L. VICENTE*
+   ## 17 YEARS OLD
 
 ## Disclaimer
 
