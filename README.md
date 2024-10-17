@@ -42,7 +42,7 @@
   - Matplotlib
   - [Any other libraries]
 
-## About the author ![](https://www.facebook.com/messenger_media/?attachment_id=874461834861344&message_id=mid.%24cAABbADDkqyWYyZMMHWSmE2tkT7gq&thread_id=100056378420005)
+## About the author ![](https://scontent.fdvo5-1.fna.fbcdn.net/v/t39.30808-6/458474470_934207968468475_3573068757366670922_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHyRTgGArUn1q3J9nAZXPnpuyvY6YUsBg67K9jphSwGDroI6NgMORMxX7YUz4Y56rX-DiUON1Wg8D7JfAP8qNhY&_nc_ohc=7814X59XgNUQ7kNvgGiev7Q&_nc_ht=scontent.fdvo5-1.fna&_nc_gid=Ae2f6zfutMWHXCXpTJXyduZ&oh=00_AYAFdj4zzxDLFg8hWRS2Jtc3AFWMv2l_d1ztQWEm3sHt7A&oe=671634C6)
    # CHAMAMEA L. VICENTE 
    ## SEPTEMBER 18 2007
    ## 17 YEARS OLD
