@@ -43,9 +43,8 @@
   - [Any other libraries]
 
 ## About the author
-CHAMAMEA L. VICENTE
--SEPTEMBER 18 2007 
--17 YEARS OLD
+   **CHAMAMEA L. VICENTE*
+
      
 
 ## Disclaimer
