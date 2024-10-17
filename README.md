@@ -46,6 +46,7 @@ Brief description of what your program does.
 
 ## About the author
 'Chamamea Vicente'
+17 years old
 
 ## Disclaimer
 
@@ -55,23 +56,6 @@ This program is provided "as is" without warranty of any kind, either expressed 
 
 This program is not intended for use in mission critical, life saving, or high risk environments. The authors are not responsible for any direct or indirect damages or losses caused by the use of this program.
 
-Use of this program implies acceptance of these terms.
-
-## Usage
-
-[Provide brief instructions on how to use your program, including any command-line arguments or configuration files it might require.]
-
-## Contributing
-
-[If you're open to contributions, provide guidelines on how others can contribute to your project.]
-
-## License
-
-[Specify the license under which your program is released, e.g., MIT, GPL, etc.]
-
-## Contact
-
-[Provide contact information or links for users to reach out with questions or issues.]
 
   
   
