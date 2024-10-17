@@ -1,6 +1,4 @@
-# Your Python Program Name
-
-Brief description of what your program does.
+# python-calculator
 
 ## Installation Guide
 
@@ -43,6 +41,11 @@ Brief description of what your program does.
   - Pandas
   - Matplotlib
   - [Any other libraries]
+
+## About the author
+    'CHAMAMEA L. VICENTE'
+     17 YEARS OLD
+     
 
 ## Disclaimer
 
