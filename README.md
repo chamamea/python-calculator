@@ -1,84 +1,53 @@
-# Python-calculator
+# Your Python Program Name
 
-## Description
-[Brief description of your project and its main features]
-
-## Pre-requisites (Tech Stack)
-- Python 3.x
-- [List any other required libraries/frameworks]
-- pip (Python package installer)
+Brief description of what your program does.
 
 ## Installation Guide
 
 ### Windows
+
 1. Install Python:
-   - Download Python from [official website](https://www.python.org/downloads/)
-   - Run the installer
-   - ✅ Check "Add Python to PATH" during installation
-   - Click "Install Now"
+   - Download the latest version of Python from [python.org](https://www.python.org/downloads/windows/)
+   - Run the installer and make sure to check "Add Python to PATH" during installation
+   - Verify installation by opening Command Prompt and typing `python --version`
 
-2. Verify Installation:
-   ```bash
-   python --version
-   pip --version
-   ```
-
-3. Install Required Packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### MacOS
-1. Install Python using Homebrew:
-   ```bash
-   # Install Homebrew if not already installed
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   
-   # Install Python
-   brew install python
-   ```
-
-2. Verify Installation:
-   ```bash
-   python3 --version
-   pip3 --version
-   ```
-
-3. Install Required Packages:
-   ```bash
-   pip3 install -r requirements.txt
-   ```
-
-## Project Setup
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
-   cd [project-directory]
-   ```
-
-2. Create and activate virtual environment (recommended):
-   ```bash
-   # Windows
-   python -m venv venv
-   venv\Scripts\activate
-
-   # MacOS
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
+2. Install required packages:
+   - Open Command Prompt
+   - Navigate to the project directory: `cd path\to\your\project`
+   - Install requirements: `pip install -r requirements.txt`
 
 3. Run the program:
-   ```bash
-   python main.py
-   ```
+   - In the project directory, run: `python your_program_name.py`
+
+### macOS
+
+1. Install Python:
+   - macOS comes with Python pre-installed, but it's recommended to install the latest version
+   - Download the latest version of Python from [python.org](https://www.python.org/downloads/mac-osx/)
+   - Run the installer package
+   - Verify installation by opening Terminal and typing `python3 --version`
+
+2. Install required packages:
+   - Open Terminal
+   - Navigate to the project directory: `cd path/to/your/project`
+   - Install requirements: `pip3 install -r requirements.txt`
+
+3. Run the program:
+   - In the project directory, run: `python3 your_program_name.py`
+
+## Pre-requisites (Tech Stack)
+
+- Python 3.x
+- [List any specific Python libraries or frameworks your program uses, e.g.:]
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - [Any other libraries]
 
 ## Disclaimer
-- This project is for [educational/commercial/personal] use only
-- [List any licensing information]
-- [Add any liability disclaimers]
-- [Mention any known limitations or compatibility issues]
 
+[Include any necessary disclaimers about the use of your program. For example:]
 
-  
-  
-  
+This program is provided "as is" without warranty of any kind, either expressed or implied. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction.
+
+This program is not intended for use in mission critical, life saving, or high risk environments. The authors are not responsible for any direct or indirect damages or losses caused by the use of this program.
